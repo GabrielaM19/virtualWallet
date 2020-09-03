@@ -3,4 +3,6 @@ Financial management application where you can easily check your money status in
 
 Screenshots of running application:
 
-![]()
+![](virtualWalletScreenshot1.PNG)
+
+![](virtualWalletScreenshot2.PNG)
